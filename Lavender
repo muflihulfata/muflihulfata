@@ -2,16 +2,26 @@
 
 
 
+
+
+
+
+
+
+
+
 {
 
 
   "magisk": {
 
-    "version": 23.0 (23000) (21)",
+    "version": "Telegram : @muflihulfata",
 
     "versionCode": "23",
 
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk"
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
+
+    "note": "https://raw.githubusercontent.com/tecnical-ishaq/tecnical-ishaq/main/23000.md"
 
   },
 
@@ -24,3 +34,27 @@
   }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
